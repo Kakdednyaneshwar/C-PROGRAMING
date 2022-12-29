@@ -1,4 +1,4 @@
-//A program for day of yhe week using switch statement..
+//A program for day of week using switch statement..
 #include <stdio.h>
 
 int main()
